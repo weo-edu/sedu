@@ -1,5 +1,5 @@
 {
-  "name": "sedu",
+  "name": "@weo-edu/sedu",
   "description": "Search education tags",
   "repository": "git://github.com/weo-edu/sedu.git",
   "version": "0.1.0",

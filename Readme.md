@@ -7,7 +7,7 @@ Search education tags
 
 ## Installation
 
-    $ npm install sedu
+    $ npm install @weo-edu/sedu
 
 ## License
 
