@@ -1,0 +1,20 @@
+{
+  "name": "sedu",
+  "description": "Search education tags",
+  "repository": "git://github.com/weo-edu/sedu.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@weo-edu/education-tags": "^0.1.0",
+    "@weo-edu/lunr": "^0.5.14"
+  },
+  "devDependencies": {
+    "mocha": "2.x",
+    "standard": "^4.0.0"
+  },
+  "engines": {
+    "node": "~0.10.38",
+    "npm": "~2.9.0"
+  }
+}
