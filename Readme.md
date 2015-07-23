@@ -1,7 +1,7 @@
 
 # sedu
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[ ![Codeship Status for weo-edu/sedu](https://img.shields.io/codeship/1c6aa5b0-1300-0133-d8d0-7a6c580e3e24/master.svg)](https://codeship.com/projects/92683) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 Search education tags
 
